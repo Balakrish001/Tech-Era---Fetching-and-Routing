@@ -1,0 +1,19 @@
+.notFoundCard {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.notFoundImage {
+  width: 300px;
+  margin-top: 30px;
+}
+
+.notFoundHeading {
+  color: #1e293b;
+}
+
+.notFoundInfo {
+  color: #475569;
+}
